@@ -349,3 +349,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 DapperDemoApp/DapperDemo/appsettings.json
+DapperDemo/DapperDemoApp/DapperDemo/appsettings.json
